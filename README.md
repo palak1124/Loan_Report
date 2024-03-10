@@ -77,3 +77,33 @@ This tree map displays loan metrics categorized by different home ownership stat
 *Objective:*
 
 The Details Dashboard provides a consolidated view of key loan-related metrics and data points, offering a holistic snapshot of our loan portfolio, borrower profiles, and loan performance. It serves as a user-friendly interface for accessing vital loan data, facilitating informed decision-making and strategic planning within our lending operations.
+
+*Learnings*
+Data Cleaning 
+
+Data Modelling
+
+Data Processing
+
+Power Query
+
+Daate Tables
+
+Time Intelligence Functions
+
+DAX
+
+Date Functions
+
+Text Functions
+
+Filter Functions
+
+Calculate
+
+SUM/SUMX
+
+Creating Charts
+Formatting visuals
+Creating Functions
+Navigations
